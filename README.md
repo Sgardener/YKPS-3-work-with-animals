@@ -13,21 +13,27 @@
 Далее будут представлены результаты нужных нам функций:
 
 GET API key:
+
 ![image](https://user-images.githubusercontent.com/72302486/147511004-2d434ec6-be65-47ca-b244-7e0dbb4fe72d.png)
 
 POST new pet:
+
 ![image](https://user-images.githubusercontent.com/72302486/147511027-cc64cc42-e93a-40d8-aa7c-07558bf76b4a.png)
 
 GET pets list:
+
 ![image](https://user-images.githubusercontent.com/72302486/147511040-5f8709fc-167a-4757-b88b-c5a27903f565.png)
 
 POST photo of the pet:
+
 ![image](https://user-images.githubusercontent.com/72302486/147511048-26fc95c1-3313-41ab-80d2-666d57ff5539.png)
 
 PUT info about pet:
+
 ![image](https://user-images.githubusercontent.com/72302486/147511058-2fe6cda7-7a74-41ae-8a3b-549325a44ef8.png)
 
 DELETE pet from database:
+
 ![image](https://user-images.githubusercontent.com/72302486/147511071-725f5e75-c891-4f60-83da-6f314b40a830.png)
 
 После выполнения всех функций на Python с помощью библиотеки "requests", были проведены тесты. Была использована библиотеку PyTest (мы научились пользоваться ей в предыдущей ЛР№2). Фикстуры были использованы для всех функций, а параметризация подойдет для функции "POST".
